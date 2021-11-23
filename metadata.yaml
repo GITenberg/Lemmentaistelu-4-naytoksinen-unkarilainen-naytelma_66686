@@ -1,5 +1,8 @@
 _repo: Lemmentaistelu-4-naytoksinen-unkarilainen-naytelma_66686
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Borg, Felx
@@ -18,6 +21,8 @@ creator:
     - https://fi.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
     - https://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66686#Lemmentaistelu-4-naytoksinen-unkarilainen-naytelma
 gutenberg_issued: '2021-11-07'
 identifiers:
   gutenberg: '66686'
